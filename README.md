@@ -1,2 +1,2 @@
-# mysite
-my personal site basic
+# My-Personal-Page
+My Personal Site page made using HTML and CSS.
